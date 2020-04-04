@@ -10,4 +10,4 @@ Im in grade 5
 
 My ***favorite*** color is green
 
-[LINK](https://crb.hdsb.ca/)
+[My link](https://crb.hdsb.ca/)
